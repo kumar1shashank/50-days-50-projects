@@ -44,6 +44,9 @@ width: 90vw;
 
 .panel.active h1{
     opacity: 1;
+    color: brown;
+    background-color: aliceblue;
+    text-align: justify;
 }
 
 @media (max-width: 480px){
